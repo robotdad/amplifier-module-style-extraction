@@ -1,5 +1,15 @@
 # amplifier-module-style-extraction
 
+> **⚠️ DEPRECATED:** This standalone module is deprecated in favor of the integrated version in [amplifier-bundle-blog-creator](https://github.com/robotdad/amplifier-bundle-blog-creator).
+>
+> **New location:** The tool module version with Amplifier protocol support is available in the bundle at `modules/tool-style-extraction/`
+>
+> **For new projects:** Use the bundle instead - it includes this functionality as a proper Amplifier tool module with improved integration.
+>
+> This repository remains for reference and backward compatibility only.
+
+---
+
 **Extract and apply writing style from text samples for Amplifier applications**
 
 Analyze writing samples to extract tone, voice, vocabulary patterns, and structural preferences, then use those profiles to guide content generation.
